@@ -1,4 +1,6 @@
-# Smart Brain App
+# Smart Brain App 
+
+Smart Brain uses Clarifai API to detect face in an image. It helps to detect face in a picture provided by user through URL of image. User's rank gets upgraded everytime user detects image in a picture.
 
 ### [Live Site](https://asmartbrainapp.herokuapp.com/)
 
@@ -7,14 +9,29 @@ Use these credentials to login:
 + password: test
 
 Technologies Used: 
-+ React 
-+ Axios 
-+ Vanilla JavaScript 
++ React.js 
++ Tachyons 
++ Image Recognition API 
++ Node.js 
++ Express 
++ PostgreSQL
++ Heroku
+
+NPM Packages: 
++ Bcrypt
++ Postgresql
++ knex
++ body parser
++ cors
++ express
 
 Learned: 
-+ Build PWA 
-+ Service Worker 
-+ 
++ Full Stack Development Experience 
++ Restful API 
++ User Login & Registration
++ Authentication 
++ Hashing Passwords 
++ Deployment  
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
