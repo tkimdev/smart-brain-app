@@ -31,7 +31,7 @@ Learned:
 + Restful API 
 + User Login & Registration
 + Authentication 
-+ Hashing Passwords 
++ Hashing Passwords Securely
 + Deployment  
 
 Setup:
