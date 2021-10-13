@@ -18,3 +18,5 @@ Learned:
 
 Setup:
 - run ```npm i && npm start``` for both client and server side to start the development server
+
+![smart-brain-app](https://user-images.githubusercontent.com/68490255/137129584-eca35b06-ad9b-464d-ace3-d8887b25b552.jpg)
