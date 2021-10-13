@@ -11,7 +11,7 @@ Use these credentials to login:
 Technologies Used: 
 + React.js 
 + Tachyons 
-+ Image Recognition API 
++ API 
 + Node.js 
 + Express 
 + PostgreSQL
