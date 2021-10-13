@@ -24,6 +24,7 @@ NPM Packages:
 + body parser
 + cors
 + express
++ particles.js
 
 Learned: 
 + Full Stack Development Experience 
