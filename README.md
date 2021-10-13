@@ -2,6 +2,10 @@
 
 ### [Live Site](https://asmartbrainapp.herokuapp.com/)
 
+Sign In for Testing:
+email: test@test.com
+password: test
+
 Technologies Used: 
 + React 
 + Axios 
