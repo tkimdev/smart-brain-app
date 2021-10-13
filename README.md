@@ -2,9 +2,9 @@
 
 ### [Live Site](https://asmartbrainapp.herokuapp.com/)
 
-Sign In for Testing:
-email: test@test.com
-password: test
+Use these credentials to login:
++ email: test@test.com
++ password: test
 
 Technologies Used: 
 + React 
