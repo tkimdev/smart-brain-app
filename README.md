@@ -4,7 +4,7 @@ Smart Brain uses Clarifai API to detect face in an image. It helps to detect fac
 
 ### [Live Site](https://asmartbrainapp.herokuapp.com/)
 
-### Use these credentials to login:
+### Use these credentials to login for testing purposes:
 + email: test@test.com
 + password: test
 
