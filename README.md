@@ -1,8 +1,12 @@
 # Smart Brain App 
 
-A Full MERN stack social media application that allows users to post interesting events that happened in your life keeping your memories lasting forever. 
+Smart Brain uses Clarifai API to detect face in an image. It helps to detect face in a picture provided by user through URL of image. User's rank gets upgraded everytime user detects image in a picture. 🧠
 
-### [Live Site](https://asmartbrainapp.herokuapp.com/)
+### [Live Site](https://memories-app-tk.netlify.app/)
+
+### Use these credentials to login for testing purposes:
++ email: test@test.com
++ password: test
 
 ### Technologies Used: 
 + React.js 
