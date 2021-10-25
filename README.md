@@ -1,12 +1,8 @@
 # Smart Brain App 
 
-Smart Brain uses Clarifai API to detect face in an image. It helps to detect face in a picture provided by user through URL of image. User's rank gets upgraded everytime user detects image in a picture. 🧠
+A Full MERN stack social media application that allows users to post interesting events that happened in your life keeping your memories lasting forever. 
 
 ### [Live Site](https://asmartbrainapp.herokuapp.com/)
-
-### Use these credentials to login for testing purposes:
-+ email: test@test.com
-+ password: test
 
 ### Technologies Used: 
 + React.js 
